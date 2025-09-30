@@ -1,1 +1,5006 @@
+Current state: q0, Current symbol: 1
+111
+^
+q0*1 -> q1*A*R
 
+Current state: q1, Current symbol: 1
+A11
+ ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+A11
+  ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: _
+A11
+   ^
+q1*_ -> q2*1*R
+
+Current state: q2, Current symbol: _
+A111
+    ^
+q2*_ -> q3*1*R
+
+Current state: q3, Current symbol: _
+A1111
+     ^
+q3*_ -> q4*1*L
+
+Current state: q4, Current symbol: 1
+A11111
+    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+A11111
+   ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+A11111
+  ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+A11111
+ ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: A
+A11111
+^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: _
+_A11111
+^
+q4*_ -> q0*_*R
+
+Current state: q0, Current symbol: A
+_A11111
+ ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: 1
+_A11111
+  ^
+q0*1 -> q1*A*R
+
+Current state: q1, Current symbol: 1
+_AA1111
+   ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AA1111
+    ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AA1111
+     ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AA1111
+      ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: _
+_AA1111
+       ^
+q1*_ -> q2*1*R
+
+Current state: q2, Current symbol: _
+_AA11111
+        ^
+q2*_ -> q3*1*R
+
+Current state: q3, Current symbol: _
+_AA111111
+         ^
+q3*_ -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AA1111111
+        ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AA1111111
+       ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AA1111111
+      ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AA1111111
+     ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AA1111111
+    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AA1111111
+   ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: A
+_AA1111111
+  ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AA1111111
+ ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: _
+_AA1111111
+^
+q4*_ -> q0*_*R
+
+Current state: q0, Current symbol: A
+_AA1111111
+ ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AA1111111
+  ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: 1
+_AA1111111
+   ^
+q0*1 -> q1*A*R
+
+Current state: q1, Current symbol: 1
+_AAA111111
+    ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAA111111
+     ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAA111111
+      ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAA111111
+       ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAA111111
+        ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAA111111
+         ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: _
+_AAA111111
+          ^
+q1*_ -> q2*1*R
+
+Current state: q2, Current symbol: _
+_AAA1111111
+           ^
+q2*_ -> q3*1*R
+
+Current state: q3, Current symbol: _
+_AAA11111111
+            ^
+q3*_ -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAA111111111
+           ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAA111111111
+          ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAA111111111
+         ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAA111111111
+        ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAA111111111
+       ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAA111111111
+      ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAA111111111
+     ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAA111111111
+    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: A
+_AAA111111111
+   ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAA111111111
+  ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAA111111111
+ ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: _
+_AAA111111111
+^
+q4*_ -> q0*_*R
+
+Current state: q0, Current symbol: A
+_AAA111111111
+ ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAA111111111
+  ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAA111111111
+   ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: 1
+_AAA111111111
+    ^
+q0*1 -> q1*A*R
+
+Current state: q1, Current symbol: 1
+_AAAA11111111
+     ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAA11111111
+      ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAA11111111
+       ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAA11111111
+        ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAA11111111
+         ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAA11111111
+          ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAA11111111
+           ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAA11111111
+            ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: _
+_AAAA11111111
+             ^
+q1*_ -> q2*1*R
+
+Current state: q2, Current symbol: _
+_AAAA111111111
+              ^
+q2*_ -> q3*1*R
+
+Current state: q3, Current symbol: _
+_AAAA1111111111
+               ^
+q3*_ -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAA11111111111
+              ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAA11111111111
+             ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAA11111111111
+            ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAA11111111111
+           ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAA11111111111
+          ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAA11111111111
+         ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAA11111111111
+        ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAA11111111111
+       ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAA11111111111
+      ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAA11111111111
+     ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: A
+_AAAA11111111111
+    ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAA11111111111
+   ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAA11111111111
+  ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAA11111111111
+ ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: _
+_AAAA11111111111
+^
+q4*_ -> q0*_*R
+
+Current state: q0, Current symbol: A
+_AAAA11111111111
+ ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAA11111111111
+  ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAA11111111111
+   ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAA11111111111
+    ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: 1
+_AAAA11111111111
+     ^
+q0*1 -> q1*A*R
+
+Current state: q1, Current symbol: 1
+_AAAAA1111111111
+      ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAA1111111111
+       ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAA1111111111
+        ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAA1111111111
+         ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAA1111111111
+          ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAA1111111111
+           ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAA1111111111
+            ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAA1111111111
+             ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAA1111111111
+              ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAA1111111111
+               ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: _
+_AAAAA1111111111
+                ^
+q1*_ -> q2*1*R
+
+Current state: q2, Current symbol: _
+_AAAAA11111111111
+                 ^
+q2*_ -> q3*1*R
+
+Current state: q3, Current symbol: _
+_AAAAA111111111111
+                  ^
+q3*_ -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAA1111111111111
+                 ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAA1111111111111
+                ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAA1111111111111
+               ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAA1111111111111
+              ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAA1111111111111
+             ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAA1111111111111
+            ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAA1111111111111
+           ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAA1111111111111
+          ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAA1111111111111
+         ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAA1111111111111
+        ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAA1111111111111
+       ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAA1111111111111
+      ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: A
+_AAAAA1111111111111
+     ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAA1111111111111
+    ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAA1111111111111
+   ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAA1111111111111
+  ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAA1111111111111
+ ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: _
+_AAAAA1111111111111
+^
+q4*_ -> q0*_*R
+
+Current state: q0, Current symbol: A
+_AAAAA1111111111111
+ ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAA1111111111111
+  ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAA1111111111111
+   ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAA1111111111111
+    ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAA1111111111111
+     ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: 1
+_AAAAA1111111111111
+      ^
+q0*1 -> q1*A*R
+
+Current state: q1, Current symbol: 1
+_AAAAAA111111111111
+       ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAA111111111111
+        ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAA111111111111
+         ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAA111111111111
+          ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAA111111111111
+           ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAA111111111111
+            ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAA111111111111
+             ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAA111111111111
+              ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAA111111111111
+               ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAA111111111111
+                ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAA111111111111
+                 ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAA111111111111
+                  ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: _
+_AAAAAA111111111111
+                   ^
+q1*_ -> q2*1*R
+
+Current state: q2, Current symbol: _
+_AAAAAA1111111111111
+                    ^
+q2*_ -> q3*1*R
+
+Current state: q3, Current symbol: _
+_AAAAAA11111111111111
+                     ^
+q3*_ -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAA111111111111111
+                    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAA111111111111111
+                   ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAA111111111111111
+                  ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAA111111111111111
+                 ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAA111111111111111
+                ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAA111111111111111
+               ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAA111111111111111
+              ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAA111111111111111
+             ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAA111111111111111
+            ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAA111111111111111
+           ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAA111111111111111
+          ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAA111111111111111
+         ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAA111111111111111
+        ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAA111111111111111
+       ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: A
+_AAAAAA111111111111111
+      ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAA111111111111111
+     ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAA111111111111111
+    ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAA111111111111111
+   ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAA111111111111111
+  ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAA111111111111111
+ ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: _
+_AAAAAA111111111111111
+^
+q4*_ -> q0*_*R
+
+Current state: q0, Current symbol: A
+_AAAAAA111111111111111
+ ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAA111111111111111
+  ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAA111111111111111
+   ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAA111111111111111
+    ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAA111111111111111
+     ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAA111111111111111
+      ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: 1
+_AAAAAA111111111111111
+       ^
+q0*1 -> q1*A*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAA11111111111111
+        ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAA11111111111111
+         ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAA11111111111111
+          ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAA11111111111111
+           ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAA11111111111111
+            ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAA11111111111111
+             ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAA11111111111111
+              ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAA11111111111111
+               ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAA11111111111111
+                ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAA11111111111111
+                 ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAA11111111111111
+                  ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAA11111111111111
+                   ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAA11111111111111
+                    ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAA11111111111111
+                     ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: _
+_AAAAAAA11111111111111
+                      ^
+q1*_ -> q2*1*R
+
+Current state: q2, Current symbol: _
+_AAAAAAA111111111111111
+                       ^
+q2*_ -> q3*1*R
+
+Current state: q3, Current symbol: _
+_AAAAAAA1111111111111111
+                        ^
+q3*_ -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAA11111111111111111
+                       ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAA11111111111111111
+                      ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAA11111111111111111
+                     ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAA11111111111111111
+                    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAA11111111111111111
+                   ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAA11111111111111111
+                  ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAA11111111111111111
+                 ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAA11111111111111111
+                ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAA11111111111111111
+               ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAA11111111111111111
+              ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAA11111111111111111
+             ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAA11111111111111111
+            ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAA11111111111111111
+           ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAA11111111111111111
+          ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAA11111111111111111
+         ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAA11111111111111111
+        ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: A
+_AAAAAAA11111111111111111
+       ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAA11111111111111111
+      ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAA11111111111111111
+     ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAA11111111111111111
+    ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAA11111111111111111
+   ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAA11111111111111111
+  ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAA11111111111111111
+ ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: _
+_AAAAAAA11111111111111111
+^
+q4*_ -> q0*_*R
+
+Current state: q0, Current symbol: A
+_AAAAAAA11111111111111111
+ ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAA11111111111111111
+  ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAA11111111111111111
+   ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAA11111111111111111
+    ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAA11111111111111111
+     ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAA11111111111111111
+      ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAA11111111111111111
+       ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: 1
+_AAAAAAA11111111111111111
+        ^
+q0*1 -> q1*A*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAA1111111111111111
+         ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAA1111111111111111
+          ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAA1111111111111111
+           ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAA1111111111111111
+            ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAA1111111111111111
+             ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAA1111111111111111
+              ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAA1111111111111111
+               ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAA1111111111111111
+                ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAA1111111111111111
+                 ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAA1111111111111111
+                  ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAA1111111111111111
+                   ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAA1111111111111111
+                    ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAA1111111111111111
+                     ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAA1111111111111111
+                      ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAA1111111111111111
+                       ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAA1111111111111111
+                        ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: _
+_AAAAAAAA1111111111111111
+                         ^
+q1*_ -> q2*1*R
+
+Current state: q2, Current symbol: _
+_AAAAAAAA11111111111111111
+                          ^
+q2*_ -> q3*1*R
+
+Current state: q3, Current symbol: _
+_AAAAAAAA111111111111111111
+                           ^
+q3*_ -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAA1111111111111111111
+                          ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAA1111111111111111111
+                         ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAA1111111111111111111
+                        ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAA1111111111111111111
+                       ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAA1111111111111111111
+                      ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAA1111111111111111111
+                     ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAA1111111111111111111
+                    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAA1111111111111111111
+                   ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAA1111111111111111111
+                  ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAA1111111111111111111
+                 ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAA1111111111111111111
+                ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAA1111111111111111111
+               ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAA1111111111111111111
+              ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAA1111111111111111111
+             ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAA1111111111111111111
+            ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAA1111111111111111111
+           ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAA1111111111111111111
+          ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAA1111111111111111111
+         ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAA1111111111111111111
+        ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAA1111111111111111111
+       ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAA1111111111111111111
+      ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAA1111111111111111111
+     ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAA1111111111111111111
+    ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAA1111111111111111111
+   ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAA1111111111111111111
+  ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAA1111111111111111111
+ ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: _
+_AAAAAAAA1111111111111111111
+^
+q4*_ -> q0*_*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAA1111111111111111111
+ ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAA1111111111111111111
+  ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAA1111111111111111111
+   ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAA1111111111111111111
+    ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAA1111111111111111111
+     ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAA1111111111111111111
+      ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAA1111111111111111111
+       ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAA1111111111111111111
+        ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: 1
+_AAAAAAAA1111111111111111111
+         ^
+q0*1 -> q1*A*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAA111111111111111111
+          ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAA111111111111111111
+           ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAA111111111111111111
+            ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAA111111111111111111
+             ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAA111111111111111111
+              ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAA111111111111111111
+               ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAA111111111111111111
+                ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAA111111111111111111
+                 ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAA111111111111111111
+                  ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAA111111111111111111
+                   ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAA111111111111111111
+                    ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAA111111111111111111
+                     ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAA111111111111111111
+                      ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAA111111111111111111
+                       ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAA111111111111111111
+                        ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAA111111111111111111
+                         ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAA111111111111111111
+                          ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAA111111111111111111
+                           ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: _
+_AAAAAAAAA111111111111111111
+                            ^
+q1*_ -> q2*1*R
+
+Current state: q2, Current symbol: _
+_AAAAAAAAA1111111111111111111
+                             ^
+q2*_ -> q3*1*R
+
+Current state: q3, Current symbol: _
+_AAAAAAAAA11111111111111111111
+                              ^
+q3*_ -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAA111111111111111111111
+                             ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAA111111111111111111111
+                            ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAA111111111111111111111
+                           ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAA111111111111111111111
+                          ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAA111111111111111111111
+                         ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAA111111111111111111111
+                        ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAA111111111111111111111
+                       ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAA111111111111111111111
+                      ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAA111111111111111111111
+                     ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAA111111111111111111111
+                    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAA111111111111111111111
+                   ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAA111111111111111111111
+                  ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAA111111111111111111111
+                 ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAA111111111111111111111
+                ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAA111111111111111111111
+               ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAA111111111111111111111
+              ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAA111111111111111111111
+             ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAA111111111111111111111
+            ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAA111111111111111111111
+           ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAA111111111111111111111
+          ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAA111111111111111111111
+         ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAA111111111111111111111
+        ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAA111111111111111111111
+       ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAA111111111111111111111
+      ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAA111111111111111111111
+     ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAA111111111111111111111
+    ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAA111111111111111111111
+   ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAA111111111111111111111
+  ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAA111111111111111111111
+ ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: _
+_AAAAAAAAA111111111111111111111
+^
+q4*_ -> q0*_*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAA111111111111111111111
+ ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAA111111111111111111111
+  ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAA111111111111111111111
+   ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAA111111111111111111111
+    ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAA111111111111111111111
+     ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAA111111111111111111111
+      ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAA111111111111111111111
+       ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAA111111111111111111111
+        ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAA111111111111111111111
+         ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: 1
+_AAAAAAAAA111111111111111111111
+          ^
+q0*1 -> q1*A*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAA11111111111111111111
+           ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAA11111111111111111111
+            ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAA11111111111111111111
+             ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAA11111111111111111111
+              ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAA11111111111111111111
+               ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAA11111111111111111111
+                ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAA11111111111111111111
+                 ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAA11111111111111111111
+                  ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAA11111111111111111111
+                   ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAA11111111111111111111
+                    ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAA11111111111111111111
+                     ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAA11111111111111111111
+                      ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAA11111111111111111111
+                       ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAA11111111111111111111
+                        ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAA11111111111111111111
+                         ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAA11111111111111111111
+                          ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAA11111111111111111111
+                           ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAA11111111111111111111
+                            ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAA11111111111111111111
+                             ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAA11111111111111111111
+                              ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: _
+_AAAAAAAAAA11111111111111111111
+                               ^
+q1*_ -> q2*1*R
+
+Current state: q2, Current symbol: _
+_AAAAAAAAAA111111111111111111111
+                                ^
+q2*_ -> q3*1*R
+
+Current state: q3, Current symbol: _
+_AAAAAAAAAA1111111111111111111111
+                                 ^
+q3*_ -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+                                ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+                               ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+                              ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+                             ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+                            ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+                           ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+                          ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+                         ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+                        ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+                       ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+                      ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+                     ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+                    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+                   ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+                  ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+                 ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+                ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+               ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+              ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+             ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+            ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+           ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAA11111111111111111111111
+          ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAA11111111111111111111111
+         ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAA11111111111111111111111
+        ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAA11111111111111111111111
+       ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAA11111111111111111111111
+      ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAA11111111111111111111111
+     ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAA11111111111111111111111
+    ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAA11111111111111111111111
+   ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAA11111111111111111111111
+  ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAA11111111111111111111111
+ ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: _
+_AAAAAAAAAA11111111111111111111111
+^
+q4*_ -> q0*_*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAA11111111111111111111111
+ ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAA11111111111111111111111
+  ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAA11111111111111111111111
+   ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAA11111111111111111111111
+    ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAA11111111111111111111111
+     ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAA11111111111111111111111
+      ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAA11111111111111111111111
+       ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAA11111111111111111111111
+        ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAA11111111111111111111111
+         ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAA11111111111111111111111
+          ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: 1
+_AAAAAAAAAA11111111111111111111111
+           ^
+q0*1 -> q1*A*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+            ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+             ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+              ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+               ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+                ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+                 ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+                  ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+                   ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+                    ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+                     ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+                      ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+                       ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+                        ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+                         ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+                          ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+                           ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+                            ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+                             ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+                              ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+                               ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+                                ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111
+                                 ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: _
+_AAAAAAAAAAA1111111111111111111111
+                                  ^
+q1*_ -> q2*1*R
+
+Current state: q2, Current symbol: _
+_AAAAAAAAAAA11111111111111111111111
+                                   ^
+q2*_ -> q3*1*R
+
+Current state: q3, Current symbol: _
+_AAAAAAAAAAA111111111111111111111111
+                                    ^
+q3*_ -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+                                   ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+                                  ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+                                 ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+                                ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+                               ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+                              ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+                             ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+                            ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+                           ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+                          ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+                         ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+                        ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+                       ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+                      ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+                     ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+                    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+                   ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+                  ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+                 ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+                ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+               ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+              ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+             ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+            ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+           ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+          ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+         ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+        ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+       ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+      ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+     ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+    ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+   ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+  ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+ ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: _
+_AAAAAAAAAAA1111111111111111111111111
+^
+q4*_ -> q0*_*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+ ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+  ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+   ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+    ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+     ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+      ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+       ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+        ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+         ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+          ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAA1111111111111111111111111
+           ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: 1
+_AAAAAAAAAAA1111111111111111111111111
+            ^
+q0*1 -> q1*A*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+             ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+              ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+               ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+                ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+                 ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+                  ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+                   ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+                    ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+                     ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+                      ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+                       ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+                        ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+                         ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+                          ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+                           ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+                            ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+                             ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+                              ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+                               ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+                                ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+                                 ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+                                  ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+                                   ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111
+                                    ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: _
+_AAAAAAAAAAAA111111111111111111111111
+                                     ^
+q1*_ -> q2*1*R
+
+Current state: q2, Current symbol: _
+_AAAAAAAAAAAA1111111111111111111111111
+                                      ^
+q2*_ -> q3*1*R
+
+Current state: q3, Current symbol: _
+_AAAAAAAAAAAA11111111111111111111111111
+                                       ^
+q3*_ -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                                      ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                                     ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                                    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                                   ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                                  ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                                 ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                                ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                               ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                              ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                             ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                            ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                           ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                          ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                         ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                        ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                       ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                      ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                     ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                   ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                  ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                 ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+                ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+               ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+              ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+             ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+            ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+           ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+          ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+         ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+        ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+       ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+      ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+     ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+    ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+   ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+  ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+ ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: _
+_AAAAAAAAAAAA111111111111111111111111111
+^
+q4*_ -> q0*_*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+ ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+  ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+   ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+    ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+     ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+      ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+       ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+        ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+         ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+          ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+           ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAA111111111111111111111111111
+            ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: 1
+_AAAAAAAAAAAA111111111111111111111111111
+             ^
+q0*1 -> q1*A*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+              ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+               ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                 ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                  ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                   ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                    ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                     ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                      ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                       ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                        ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                         ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                          ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                           ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                            ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                             ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                              ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                               ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                                ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                                 ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                                  ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                                   ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                                    ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                                     ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                                      ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111
+                                       ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: _
+_AAAAAAAAAAAAA11111111111111111111111111
+                                        ^
+q1*_ -> q2*1*R
+
+Current state: q2, Current symbol: _
+_AAAAAAAAAAAAA111111111111111111111111111
+                                         ^
+q2*_ -> q3*1*R
+
+Current state: q3, Current symbol: _
+_AAAAAAAAAAAAA1111111111111111111111111111
+                                          ^
+q3*_ -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                                         ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                                        ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                                       ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                                      ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                                     ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                                    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                                   ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                                  ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                                 ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                                ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                               ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                              ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                             ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                            ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                           ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                          ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                         ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                        ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                       ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                      ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                     ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                   ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                  ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                 ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+                ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+               ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+              ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+             ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+            ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+           ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+          ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+         ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+        ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+       ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+      ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+     ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+    ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+   ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+  ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+ ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: _
+_AAAAAAAAAAAAA11111111111111111111111111111
+^
+q4*_ -> q0*_*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+ ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+  ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+   ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+    ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+     ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+      ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+       ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+        ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+         ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+          ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+           ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+            ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAA11111111111111111111111111111
+             ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: 1
+_AAAAAAAAAAAAA11111111111111111111111111111
+              ^
+q0*1 -> q1*A*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+               ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                 ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                  ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                   ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                    ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                     ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                      ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                       ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                        ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                         ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                          ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                           ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                            ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                             ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                              ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                               ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                                ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                                 ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                                  ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                                   ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                                    ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                                     ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                                      ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                                       ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                                        ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                                         ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                                          ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: _
+_AAAAAAAAAAAAAA1111111111111111111111111111
+                                           ^
+q1*_ -> q2*1*R
+
+Current state: q2, Current symbol: _
+_AAAAAAAAAAAAAA11111111111111111111111111111
+                                            ^
+q2*_ -> q3*1*R
+
+Current state: q3, Current symbol: _
+_AAAAAAAAAAAAAA111111111111111111111111111111
+                                             ^
+q3*_ -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                                            ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                                           ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                                          ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                                         ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                                        ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                                       ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                                      ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                                     ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                                    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                                   ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                                  ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                                 ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                                ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                               ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                              ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                             ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                            ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                           ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                          ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                         ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                        ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                       ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                      ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                     ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                   ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                  ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                 ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+                ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+               ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+              ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+             ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+            ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+           ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+          ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+         ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+        ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+       ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+      ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+     ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+    ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+   ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+  ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+ ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: _
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+^
+q4*_ -> q0*_*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+ ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+  ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+   ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+    ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+     ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+      ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+       ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+        ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+         ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+          ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+           ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+            ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+             ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+              ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: 1
+_AAAAAAAAAAAAAA1111111111111111111111111111111
+               ^
+q0*1 -> q1*A*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                 ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                  ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                   ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                    ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                     ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                      ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                       ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                        ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                         ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                          ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                           ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                            ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                             ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                              ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                               ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                                ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                                 ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                                  ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                                   ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                                    ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                                     ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                                      ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                                       ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                                        ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                                         ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                                          ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                                           ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                                            ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                                             ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: _
+_AAAAAAAAAAAAAAA111111111111111111111111111111
+                                              ^
+q1*_ -> q2*1*R
+
+Current state: q2, Current symbol: _
+_AAAAAAAAAAAAAAA1111111111111111111111111111111
+                                               ^
+q2*_ -> q3*1*R
+
+Current state: q3, Current symbol: _
+_AAAAAAAAAAAAAAA11111111111111111111111111111111
+                                                ^
+q3*_ -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                                               ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                                              ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                                             ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                                            ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                                           ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                                          ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                                         ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                                        ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                                       ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                                      ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                                     ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                                    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                                   ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                                  ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                                 ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                                ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                               ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                              ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                             ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                            ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                           ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                          ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                         ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                        ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                       ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                      ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                     ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                   ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                  ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                 ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+               ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+              ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+             ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+            ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+           ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+          ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+         ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+        ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+       ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+      ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+     ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+    ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+   ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+  ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+ ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: _
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+^
+q4*_ -> q0*_*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+ ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+  ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+   ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+    ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+     ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+      ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+       ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+        ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+         ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+          ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+           ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+            ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+             ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+              ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+               ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: 1
+_AAAAAAAAAAAAAAA111111111111111111111111111111111
+                ^
+q0*1 -> q1*A*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                 ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                  ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                   ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                    ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                     ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                      ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                       ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                        ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                         ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                          ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                           ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                            ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                             ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                              ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                               ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                                ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                                 ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                                  ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                                   ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                                    ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                                     ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                                      ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                                       ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                                        ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                                         ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                                          ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                                           ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                                            ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                                             ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                                              ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                                               ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                                                ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: _
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111
+                                                 ^
+q1*_ -> q2*1*R
+
+Current state: q2, Current symbol: _
+_AAAAAAAAAAAAAAAA111111111111111111111111111111111
+                                                  ^
+q2*_ -> q3*1*R
+
+Current state: q3, Current symbol: _
+_AAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                                   ^
+q3*_ -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                                                  ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                                                 ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                                                ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                                               ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                                              ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                                             ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                                            ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                                           ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                                          ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                                         ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                                        ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                                       ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                                      ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                                     ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                                    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                                   ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                                  ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                                 ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                                ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                               ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                              ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                             ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                            ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                           ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                          ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                         ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                        ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                       ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                      ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                     ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                   ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                  ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                 ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+               ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+              ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+             ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+            ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+           ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+          ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+         ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+        ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+       ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+      ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+     ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+    ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+   ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+  ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+ ^
+q4*A -> q4*A*L
+
+Current state: q4, Current symbol: _
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+^
+q4*_ -> q0*_*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+ ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+  ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+   ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+    ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+     ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+      ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+       ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+        ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+         ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+          ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+           ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+            ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+             ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+              ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+               ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: A
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                ^
+q0*A -> q0*A*R
+
+Current state: q0, Current symbol: 1
+_AAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                 ^
+q0*1 -> q1*A*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                  ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                   ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                    ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                     ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                      ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                       ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                        ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                         ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                          ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                           ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                            ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                             ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                              ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                               ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                 ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                  ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                   ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                    ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                     ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                      ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                       ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                        ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                         ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                          ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                           ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                            ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                             ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                              ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                               ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                                ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                                 ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                                  ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                                   ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: _
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111
+                                                    ^
+q1*_ -> q2*1*R
+
+Current state: q2, Current symbol: _
+_AAAAAAAAAAAAAAAAA11111111111111111111111111111111111
+                                                     ^
+q2*_ -> q3*1*R
+
+Current state: q3, Current symbol: _
+_AAAAAAAAAAAAAAAAA111111111111111111111111111111111111
+                                                      ^
+q3*_ -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                                     ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                                    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                                   ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                                  ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                                 ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                                ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                               ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                              ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                             ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                            ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                           ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                          ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                         ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                        ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                       ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                      ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                     ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                   ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                  ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                 ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                                ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                               ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                              ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                             ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                            ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                           ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                          ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                         ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                        ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                       ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                      ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                     ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                    ^
+q4*1 -> q4*1*L
+
+Current state: q4, Current symbol: 1
+_AAAAAAAAAAAAAAAAA1111111111111111111111111111111111111
+                   ^
+q4*1 -> q4*1*L
+
+ОШИБКА: превышен лимит шагов, вероятно зацикливание.
