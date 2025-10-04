@@ -1,62 +1,135 @@
 Current state: q0, Current symbol: 1
-111
+11=
 ^
-q0*1 -> q0*1*R
-
-Current state: q0, Current symbol: 1
-111
- ^
-q0*1 -> q0*1*R
-
-Current state: q0, Current symbol: 1
-111
-  ^
-q0*1 -> q0*1*R
-
-Current state: q0, Current symbol: _
-111
-   ^
-q0*_ -> q1*_*L
+q0*1 -> q1*_*R
 
 Current state: q1, Current symbol: 1
-111
+_1=
+ ^
+q1*1 -> q1*1*R
+
+Current state: q1, Current symbol: =
+_1=
   ^
-q1*1 -> q2*A*R
+q1*= -> q2*=*R
 
 Current state: q2, Current symbol: _
-11A
+_1=
    ^
 q2*_ -> q3*1*R
 
 Current state: q3, Current symbol: _
-11A1
+_1=1
     ^
 q3*_ -> q4*1*R
 
 Current state: q4, Current symbol: _
-11A11
+_1=11
      ^
 q4*_ -> q5*1*L
 
 Current state: q5, Current symbol: 1
-11A111
+_1=111
     ^
 q5*1 -> q5*1*L
 
 Current state: q5, Current symbol: 1
-11A111
+_1=111
    ^
 q5*1 -> q5*1*L
 
-Current state: q5, Current symbol: A
-11A111
+Current state: q5, Current symbol: =
+_1=111
   ^
-q5*A -> q6*A*L
+q5*= -> q5*=*L
 
-Current state: q6, Current symbol: 1
-11A111
+Current state: q5, Current symbol: 1
+_1=111
  ^
-q6*1 -> q7*A*R
+q5*1 -> q5*1*L
 
-Current state: q7, Current symbol: A
-Ошибка: не найден переход для ('q7', 'A')
+Current state: q5, Current symbol: _
+_1=111
+^
+q5*_ -> q0*_*R
+
+Current state: q0, Current symbol: 1
+_1=111
+ ^
+q0*1 -> q1*_*R
+
+Current state: q1, Current symbol: =
+__=111
+  ^
+q1*= -> q2*=*R
+
+Current state: q2, Current symbol: 1
+__=111
+   ^
+q2*1 -> q2*1*R
+
+Current state: q2, Current symbol: 1
+__=111
+    ^
+q2*1 -> q2*1*R
+
+Current state: q2, Current symbol: 1
+__=111
+     ^
+q2*1 -> q2*1*R
+
+Current state: q2, Current symbol: _
+__=111
+      ^
+q2*_ -> q3*1*R
+
+Current state: q3, Current symbol: _
+__=1111
+       ^
+q3*_ -> q4*1*R
+
+Current state: q4, Current symbol: _
+__=11111
+        ^
+q4*_ -> q5*1*L
+
+Current state: q5, Current symbol: 1
+__=111111
+       ^
+q5*1 -> q5*1*L
+
+Current state: q5, Current symbol: 1
+__=111111
+      ^
+q5*1 -> q5*1*L
+
+Current state: q5, Current symbol: 1
+__=111111
+     ^
+q5*1 -> q5*1*L
+
+Current state: q5, Current symbol: 1
+__=111111
+    ^
+q5*1 -> q5*1*L
+
+Current state: q5, Current symbol: 1
+__=111111
+   ^
+q5*1 -> q5*1*L
+
+Current state: q5, Current symbol: =
+__=111111
+  ^
+q5*= -> q5*=*L
+
+Current state: q5, Current symbol: _
+__=111111
+ ^
+q5*_ -> q0*_*R
+
+Current state: q0, Current symbol: =
+__=111111
+  ^
+q0*= -> qf*=*E
+
