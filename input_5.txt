@@ -1,1 +1,1 @@
-(<x|c>|n)(b|d)<a|k>y
+a<c><d>(k|h)<a|b|c>n
