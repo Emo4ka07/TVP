@@ -1,1 +1,1 @@
-(x|d)<n|m>k(<a>x<b>)
+n<a|b|c>(k|m)<z><x>f
