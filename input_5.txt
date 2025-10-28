@@ -1,1 +1,1 @@
-a<c><d>(k|h)<a|b|c>n
+k(a|d)<n|m>m<d><c>x(a|b)
